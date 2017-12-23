@@ -1,0 +1,48 @@
+<style type="text/css">
+table.innerTable {
+	font-family : Tahoma, Arial;
+	font-size : 11px;
+	text-align : right;
+	border-color : white;
+	background-color : white;
+}
+table.noBorders {
+	font-family : Tahoma, Arial;
+	font-size : 11px;
+	text-align : right;
+}
+table.menuTable {
+	font-family : Tahoma, Arial;
+	font-size : 11px;
+	text-align : right;
+	border-collapse : collapse;
+	border-color : white;
+	background-color : #e1e1e1;
+}
+table.pageTable {
+	font-family : Tahoma, Arial;
+	font-size : 11px;
+	text-align : right;
+	border-color : #f9f9f9;
+	background-color : #f9f9f9;
+}
+table.menuItem {
+	font-family : Tahoma, Arial;
+	font-size : 11px;
+	text-align : right;
+}
+td.menuTable {
+	border: 1px solid white;
+}
+
+
+A.bottomLink:link {color: gray; text-decoration: none; font-family : Arial}
+A.bottomLink:visited {color: gray; text-decoration: none;  font-family : Arial}
+A.bottomLink:active {color: gray; text-decoration: none; font-family : Arial}
+A.bottomLink:hover {color: #DD6900; text-decoration: none; font-family : Arial}
+
+A:link {text-decoration: none}
+A:visited {text-decoration: none; color: blue;}
+A:active {text-decoration: none;}
+A:hover {text-decoration: none; color: #DD6900;}
+</style>
